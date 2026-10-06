@@ -12,6 +12,8 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 6. Drop In
 7. 우리 같이 청춘을 낭비해 (Waste It All With You)
 
+![Alt text](C:\Users\smhrd123\Desktop\smu_github\kickflip_profile.jpg)
+![Alt text](https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile")
 #### WHO IS KICKFLIP?
 1. 계훈 : leader
 2. 아마루
@@ -22,7 +24,7 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 7. 동현
 
 #### PREVIEW
-<br/>[미완성 (Puzzle Piece) M/V] : (https://youtu.be/3bLurEgiD0c?si=MxKFUi-PcxhFmSQi)  
+
 <br/>[KICK OFF THE WALL Pt.1 - Track Spoiler](https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36,)
-<br/>[googlelink](https://google.com "Go google")
+
 <br/>[미완성 (Puzzle Piece) M/V](https://www.youtube.com/watch?v=s8kvZHOEaYM)
