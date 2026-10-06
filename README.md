@@ -15,8 +15,9 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 
 #### WHO IS KICKFLIP?
 ![Alt text](https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile")
+<img src="https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile" width="40%" alt="kickflip_new_profile"></img><br/>
 1. 계훈 : leader
-2. 아마루
+2. 아마루 
 3. 동화
 4. 주왕
 5. 민제
