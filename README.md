@@ -22,5 +22,6 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 7. 동현
 
 #### PREVIEW
-[미완성 (Puzzle Piece) M/V] (https://youtu.be/3bLurEgiD0c?si=MxKFUi-PcxhFmSQi)  
-[KICK OFF THE WALL Pt.1 - Track Spoiler] (https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36)
+[미완성 (Puzzle Piece) M/V] : (https://youtu.be/3bLurEgiD0c?si=MxKFUi-PcxhFmSQi)  
+[KICK OFF THE WALL Pt.1 - Track Spoiler] (https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36,)
+[googlelink]: https://google.com "Go google"
