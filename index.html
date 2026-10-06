@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>피지컬 앨범을 데일리 아이템으로</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f7f5f0;
+    --ink: #1c1b19;
+    --sub: #6b6862;
+    --line: #cfcac0;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Noto Sans KR", "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+    color: var(--ink);
+    background-color: var(--paper);
+    background-image:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.45 0 0 0 0 0.42 0 0 0 0 0.36 0 0 0 0.09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+      radial-gradient(ellipse at 30% 20%, #fbfaf6 0%, transparent 60%),
+      radial-gradient(ellipse at 80% 90%, #efebe2 0%, transparent 55%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 56px 16px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  .sheet {
+    width: 100%;
+    max-width: 760px;
+  }
+  .label {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--sub);
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 12px;
+  }
+  .hero { padding: 64px 0 48px; border-bottom: 1px solid var(--line); }
+  .hero .label { margin-bottom: 20px; }
+  h1 {
+    font-size: clamp(34px, 7vw, 60px);
+    font-weight: 900;
+    line-height: 1.18;
+    letter-spacing: -0.03em;
+    word-break: keep-all;
+  }
+  .summary {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 24px;
+    padding: 36px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .summary p {
+    font-size: 18px;
+    font-weight: 400;
+    word-break: keep-all;
+  }
+  .tracks { padding: 36px 0 12px; }
+  .tracks > .label { margin-bottom: 18px; }
+  ol { list-style: none; }
+  li {
+    display: grid;
+    grid-template-columns: 56px 1fr auto;
+    gap: 16px;
+    align-items: baseline;
+    padding: 18px 0;
+    border-top: 1px dashed var(--line);
+  }
+  li:last-child { border-bottom: 1px dashed var(--line); }
+  .no { font-size: 13px; font-weight: 700; color: var(--sub); font-variant-numeric: tabular-nums; }
+  .text { font-size: 16px; word-break: keep-all; }
+  .tag { font-size: 11px; letter-spacing: 0.18em; color: var(--sub); white-space: nowrap; }
+  .credits {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px 24px;
+    padding: 48px 0;
+    border-bottom: 2px solid var(--ink);
+  }
+  .credits dt { margin-bottom: 4px; }
+  .credits dd { font-size: 15px; font-weight: 500; letter-spacing: 0.04em; }
+  .name { font-size: 22px !important; font-weight: 700 !important; letter-spacing: 0.08em !important; }
+  footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 14px;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    color: var(--sub);
+  }
+  @media (max-width: 560px) {
+    body { padding: 32px 16px; }
+    .hero { padding: 44px 0 36px; }
+    .summary { grid-template-columns: 1fr; gap: 10px; }
+    .summary p { font-size: 16px; }
+    li { grid-template-columns: 40px 1fr; }
+    .tag { display: none; }
+    .credits { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main class="sheet">
+  <header>
+    <span class="label">Liner Notes</span>
+    <span class="label">Proposal No. 01</span>
+  </header>
+
+  <section class="hero">
+    <p class="label">Title Track</p>
+    <h1>피지컬 앨범을<br>데일리 아이템으로</h1>
+  </section>
+
+  <section class="summary">
+    <p class="label">Concept</p>
+    <p>방 구석에 먼지와 함께 쌓여가는 앨범 대신 하루를 함께 하는 아이템으로 피지컬앨범을 구성한다.</p>
+  </section>
+
+  <section class="tracks">
+    <p class="label">Tracklist — Why</p>
+    <ol>
+      <li><span class="no">01</span><span class="text">팬들이 피지컬 앨범을 구매하고 보관하는 데에 피로감을 느낀다.</span><span class="tag">STORAGE</span></li>
+      <li><span class="no">02</span><span class="text">원하는 버전의 앨범을 구매하려면 오프라인 매장에 가거나 세트 전체를 구매해야 한다.</span><span class="tag">ACCESS</span></li>
+      <li><span class="no">03</span><span class="text">종류별로 구매하느라 6만원 이상의 돈을 투자해 구매하지만 랜덤 포토카드를 얻고 나면 실용성이 없다.</span><span class="tag">VALUE</span></li>
+    </ol>
+  </section>
+
+  <dl class="credits">
+    <div><dt class="label">Planned &amp; Written by</dt><dd class="name">EUNJI SEO</dd></div>
+    <div><dt class="label">Format</dt><dd>Physical Album, Daily Edition</dd></div>
+  </dl>
+
+  <footer>
+    <span>&copy; 2026 EUNJI SEO</span>
+    <span>ALL RIGHTS RESERVED</span>
+  </footer>
+</main>
+</body>
+</html>
