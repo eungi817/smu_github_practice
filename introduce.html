@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EUNJI SEO — Credits</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,400;125,500;125,600;125,700;125,800&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<style>
+  :root {
+    --ink: #101010; --heading: #21252c; --sub: #42474e; --meta: #646b76;
+    --mute: #868e9b; --rule-vertical: #707070; --hairline: #000000;
+    --canvas: #ffffff; --surface-image: #000000; --on-dark: #ffffff;
+    --font: "Archivo", "Pretendard", sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--canvas); color: var(--ink); font: 400 14px/1.5 var(--font); font-stretch: 125%; }
+
+  .nav { height: 84px; padding: 24px 62px; display: flex; justify-content: space-between; align-items: center; }
+  .nav .logo { font-size: 16px; font-weight: 800; letter-spacing: 0; }
+  .nav .tag { font-size: 14px; font-weight: 500; color: var(--sub); }
+
+  /* spine */
+  main { position: relative; padding: 38px 24px 100px; }
+  main::before { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 1px; background: var(--rule-vertical); }
+  .block { position: relative; background: var(--canvas); }
+
+  .spotlight { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px; padding: 24px 0; width: max-content; max-width: 100%; margin: 0 auto; }
+  .artist { font-size: 24px; font-weight: 700; line-height: 1.25; }
+  .title { font-size: 28px; font-weight: 800; line-height: 1.1; }
+  .meta { font-size: 12px; line-height: 1.1; color: var(--meta); }
+  .title { margin-bottom: 14px; }
+
+  .section-label { width: max-content; margin: 100px auto 38px; padding: 6px 15px; font-size: 14px; font-weight: 700;
+                   border-bottom: 1px solid var(--hairline); color: var(--heading); }
+
+  .row { display: grid; grid-template-columns: 1fr 1fr; max-width: 900px; margin: 0 auto 24px; background: transparent; }
+  .row > * { padding: 0 38px; }
+  .row .k { text-align: right; font-size: 12px; color: var(--meta); padding-top: 2px; }
+  .row .v { font-size: 16px; font-weight: 700; line-height: 1.5; }
+  .row .v span { display: block; font-size: 14px; font-weight: 400; color: var(--sub); }
+  .row .v span.ko { font-family: "Pretendard", sans-serif; }
+
+  .track .k b { display: block; font-size: 28px; font-weight: 800; line-height: 1.1; color: var(--ink); }
+  .tools .v { font-size: 14px; font-weight: 600; line-height: 1.6; }
+
+  footer { padding: 0 62px 68px; display: flex; justify-content: space-between; font-size: 12px; color: var(--mute); }
+
+  @media (max-width: 640px) {
+    .nav { padding: 24px 16px; }
+    main { padding: 24px 16px 72px; }
+    .row { grid-template-columns: 1fr; text-align: center; gap: 4px; width: max-content; max-width: 100%; background: var(--canvas); padding: 6px 0; }
+    .row > * { padding: 0 10px; }
+    .row .k { text-align: center; }
+    footer { padding: 0 16px 48px; flex-direction: column; gap: 4px; }
+  }
+</style>
+</head>
+<body>
+  <header class="nav">
+    <div class="logo">EUNJI SEO</div>
+    <div class="tag">CREDITS</div>
+  </header>
+
+  <main>
+    <section class="block spotlight">
+      <div class="artist">EUNJI SEO</div>
+      <div class="title">VISUAL DESIGNER,<br>ART DIRECTOR</div>
+      <div class="meta">PORTFOLIO</div>
+      <div class="meta">WORKS 2022 — 2024</div>
+    </section>
+
+    <div class="block section-label">CREDITS</div>
+    <div class="row block"><div class="k">NAME</div><div class="v">EUNJI SEO</div></div>
+    <div class="row block"><div class="k">POSITION</div><div class="v">VISUAL DESIGNER<br>ART DIRECTOR</div></div>
+
+    <div class="block section-label">WORKS</div>
+    <div class="row block track"><div class="k"><b>01</b>2022</div><div class="v">INSTATOON<span>taltalworld</span></div></div>
+    <div class="row block track"><div class="k"><b>02</b>2022</div><div class="v">METAL CRAFT GRADUATION EXHIBITION<span class="ko">안녕, 오늘 우린...</span></div></div>
+    <div class="row block track"><div class="k"><b>03</b>2023</div><div class="v">MUNIV CONCERT 2023<span>ANTI-HERO</span></div></div>
+    <div class="row block track"><div class="k"><b>04</b>2024</div><div class="v">ALBUM ARTWORK<span>Hhrim — Get Nothing</span></div></div>
+
+    <div class="block section-label">TOOLS</div>
+    <div class="row block tools"><div class="k">DESIGN</div><div class="v">Adobe Illustrator<br>Adobe Photoshop</div></div>
+    <div class="row block tools"><div class="k">3D</div><div class="v">Blender</div></div>
+    <div class="row block tools"><div class="k">VIDEO</div><div class="v">Premiere Pro</div></div>
+  </main>
+
+  <footer>
+    <span>VISUAL DESIGN · ART DIRECTION</span>
+    <span>© EUNJI SEO</span>
+  </footer>
+</body>
+</html>
