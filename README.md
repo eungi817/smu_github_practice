@@ -1,11 +1,11 @@
 # smu_github_practice
 
-## KickFlip 5th Mini Album [KICK OFF THE WALL]
+## KickFlip 5th Mini Album [KICK OFF THE WALL Pt.1] 
 FULL ALBUM RELEASE **2026.10.06 6PM**
 
 #### TRACKLIST
-1. 미완성 (Puzzle Piece) [title]
-2. KICK OFF THE WALL (Feat. iann dior) [title]
+1. *미완성 (Puzzle Piece) [title]*
+2. *KICK OFF THE WALL (Feat. iann dior) [title]*
 3. 0 (Young)
 4. 휘청 (Rockin')
 5. hate blueberry
@@ -22,5 +22,5 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 7. 동현
 
 #### PREVIEW
-https://youtu.be/3bLurEgiD0c?si=MxKFUi-PcxhFmSQi 
-https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36
+[미완성 (Puzzle Piece) M/V] (https://youtu.be/3bLurEgiD0c?si=MxKFUi-PcxhFmSQi)  
+[KICK OFF THE WALL Pt.1 - Track Spoiler] (https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36)
