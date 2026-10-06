@@ -10,11 +10,11 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 6. Drop In
 7. 우리 같이 청춘을 낭비해 (Waste It All With You)   
 
-
+<br/><br/>
 ### WHO IS KICKFLIP?
 ![Alt text](https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile")<br/>   
 
-
+<br/><br/>
 ### MEMBERS
 1. **계훈**<br/><img src="https://pbs.twimg.com/media/HTtqKvtbwAIiN1a?format=jpg&name=4096x4096" width="40%" height="30%" title="px설정" alt="계훈_new_profile"></img><br/>
 2. 아마루 
@@ -23,7 +23,7 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 5. **민제**<br/><img src="https://pbs.twimg.com/media/HTtrU2DboAE51FW?format=jpg&name=4096x4096" width="40%" height="30%" title="px설정" alt="민제_new_profile"></img><br/>
 6. **케이주**<br/><img src="https://pbs.twimg.com/media/HTtrgPMb0AA1ghO?format=jpg&name=4096x4096" width="40%" height="30%" title="px설정" alt="케이_new_profile"></img><br/>
 7. **동현**<br/><img src="https://pbs.twimg.com/media/HTtrpVXasAAfqxD?format=jpg&name=4096x409)" width="40%" height="30%" title="px설정" alt="kickflip_new_profile"></img><br/>
-
+<br/><br/>
 ### PREVIEW
 <br/>[KICK OFF THE WALL Pt.1 - Track Spoiler](https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36,)
 
