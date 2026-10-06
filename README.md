@@ -23,5 +23,6 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 
 #### PREVIEW
 <br/>[미완성 (Puzzle Piece) M/V] : (https://youtu.be/3bLurEgiD0c?si=MxKFUi-PcxhFmSQi)  
-<br/>[KICK OFF THE WALL Pt.1 - Track Spoiler] (https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36,)
+<br/>[KICK OFF THE WALL Pt.1 - Track Spoiler](https://youtu.be/s8kvZHOEaYM?si=cnvcMy0OgmemgN36,)
 <br/>[googlelink](https://google.com "Go google")
+<br/>[미완성 (Puzzle Piece) M/V](https://www.youtube.com/watch?v=s8kvZHOEaYM)
