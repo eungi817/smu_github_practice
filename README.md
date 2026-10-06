@@ -12,9 +12,9 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 6. Drop In
 7. 우리 같이 청춘을 낭비해 (Waste It All With You)
 
-![Alt text](C:\Users\smhrd123\Desktop\smu_github\kickflip_profile.jpg)
-![Alt text](https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile")
+
 #### WHO IS KICKFLIP?
+![Alt text](https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile")
 1. 계훈 : leader
 2. 아마루
 3. 동화
