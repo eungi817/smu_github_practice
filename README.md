@@ -16,13 +16,13 @@ FULL ALBUM RELEASE **2026.10.06 6PM**
 #### WHO IS KICKFLIP?
 ![Alt text](https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096 "kickflip_profile")
 <img src="https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096" width="40%" height="30%" title="px설정" alt="kickflip_new_profile"></img><br/>
-1. 계훈 : leader
+1. 계훈<img src="[https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096](https://pbs.twimg.com/media/HTtqKvtbwAIiN1a?format=jpg&name=4096x4096)" width="40%" height="30%" title="px설정" alt="계훈_new_profile"></img><br/>
 2. 아마루 
-3. 동화
-4. 주왕
-5. 민제
-6. 케이주
-7. 동현
+3. 동화<img src="[https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096](https://pbs.twimg.com/media/HTtqe7vbAAAP4Mz?format=jpg&name=4096x4096)" width="40%" height="30%" title="px설정" alt="동화_new_profile"></img><br/>
+4. 주왕<img src="[https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096](https://pbs.twimg.com/media/HTtrHKDawAEmEpx?format=jpg&name=4096x4096)" width="40%" height="30%" title="px설정" alt="주왕_new_profile"></img><br/>
+5. 민제 <img src="[https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096](https://pbs.twimg.com/media/HTtrU2DboAE51FW?format=jpg&name=4096x4096)" width="40%" height="30%" title="px설정" alt="민제_new_profile"></img><br/>
+6. 케이주<img src="[https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096](https://pbs.twimg.com/media/HTtrgPMb0AA1ghO?format=jpg&name=4096x4096)" width="40%" height="30%" title="px설정" alt="케이_new_profile"></img><br/>
+7. 동현<img src="[https://pbs.twimg.com/media/HTtrvIubAAA2zQu?format=jpg&name=4096x4096](https://pbs.twimg.com/media/HTtrpVXasAAfqxD?format=jpg&name=4096x4096)" width="40%" height="30%" title="px설정" alt="kickflip_new_profile"></img><br/>
 
 #### PREVIEW
 
